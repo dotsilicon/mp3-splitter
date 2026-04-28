@@ -26,3 +26,8 @@ Example:
 My_Mix_Song_01.mp3
 My_Mix_Song_02.mp3
 My_Mix_Song_03.mp3
+```
+---
+Developed by: [Rashidul Hasan](https://fb.com/forbidden.empire)
+|
+Publisher: [Dotsilicon Limited](https://www.dotsilicon.com/)
