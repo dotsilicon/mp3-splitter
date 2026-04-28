@@ -53,8 +53,9 @@ MP3 Splitter is intended for lawful personal and professional use only. Users ar
 
 ## Developer
 
-Developed by [**Rashidul Hasan**](https://fb.com/forbidden.empire)<br>
-Published by [**Dotsilicon Limited**](https://www.dotsilicon.com/)
+**Developer:** [Rashidul Hasan](https://fb.com/forbidden.empire)<br>
+**Publisher:** [Dotsilicon Limited](https://www.dotsilicon.com/)<br>
+**Website:** https://dotsilicon.com/apps/mp3-splitter
 
 ## Copyright
 
